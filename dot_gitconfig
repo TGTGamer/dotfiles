@@ -1,0 +1,6 @@
+[gitbutler]
+	gitbutlerCommitter = 1
+	signCommits = true
+[user]
+	email = jonathan.stevens@eventiva.co.uk
+	name = Jonathan Stevens
